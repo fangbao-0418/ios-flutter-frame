@@ -1,0 +1,16 @@
+//
+//  SceneDelegate.h
+//  ios-flutter-frame
+//
+//  Created by 宝宝 on 2020/8/15.
+//  Copyright © 2020 宝宝. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
