@@ -1,15 +1,15 @@
 //
 //  AppDelegate.h
-//  ios-flutter-frame
+//  sdfsdf
 //
-//  Created by 宝宝 on 2020/8/15.
-//  Copyright © 2020 宝宝. All rights reserved.
+//  Created by Jidong Chen on 2018/10/18.
+//  Copyright © 2018年 Jidong Chen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+#import <flutter_boost/FlutterBoost.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-
+@property (nullable, nonatomic, strong) UIWindow *window;
 @end
 

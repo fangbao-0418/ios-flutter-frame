@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ios-flutter-frame/Pods-ios-flutter-frame-frameworks.sh
+${PODS_ROOT}/../../ft-youxuan/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/flutter_boost/flutter_boost.framework
+${BUILT_PRODUCTS_DIR}/fluttertoast/fluttertoast.framework
+${PODS_ROOT}/../../ft-youxuan/.ios/Flutter/App.framework

@@ -1,0 +1,42 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.2):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+    - fluttertoast
+  - fluttertoast (0.0.2):
+    - Flutter
+  - xtflutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `../ft-youxuan/.ios/Flutter/engine`)
+  - flutter_boost (from `../ft-youxuan/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - FlutterPluginRegistrant (from `../ft-youxuan/.ios/Flutter/FlutterPluginRegistrant`)
+  - fluttertoast (from `../ft-youxuan/.ios/Flutter/.symlinks/fluttertoast/ios`)
+  - xtflutter (from `../ft-youxuan/.ios/Flutter`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../ft-youxuan/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "../ft-youxuan/.ios/Flutter/.symlinks/flutter_boost/ios"
+  FlutterPluginRegistrant:
+    :path: "../ft-youxuan/.ios/Flutter/FlutterPluginRegistrant"
+  fluttertoast:
+    :path: "../ft-youxuan/.ios/Flutter/.symlinks/fluttertoast/ios"
+  xtflutter:
+    :path: "../ft-youxuan/.ios/Flutter"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_boost: a7cfa776b75329d5e7d101d0cd33e75042bcde69
+  FlutterPluginRegistrant: f08e0bb2ad1bc8beaf31171888c99361db8d141a
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  xtflutter: 6b6ba05d3851309d57f15ba06eb1134d25ec1e23
+
+PODFILE CHECKSUM: 6f76de11a8580e6e8615c4e10c0e7025da4a442c
+
+COCOAPODS: 1.9.3

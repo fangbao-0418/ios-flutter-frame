@@ -1,19 +1,9 @@
-//
-//  main.m
-//  ios-flutter-frame
-//
-//  Created by 宝宝 on 2020/8/15.
-//  Copyright © 2020 宝宝. All rights reserved.
-//
-
+#import <Flutter/Flutter.h>
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[]) {
-    NSString * appDelegateClassName;
-    @autoreleasepool {
-        // Setup code that might create autoreleased objects goes here.
-        appDelegateClassName = NSStringFromClass([AppDelegate class]);
-    }
-    return UIApplicationMain(argc, argv, nil, appDelegateClassName);
+int main(int argc, char* argv[]) {
+  @autoreleasepool {
+    return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+  }
 }
